@@ -1,0 +1,48 @@
+.noidung{
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 20px;
+	display: flex;
+}
+.noidung_left{
+	width: 840px;
+}
+.noidung_1{
+	display: flex;
+	
+}
+.tieudiem_1{
+	margin-left: 15px;
+}
+.tieudiem_1 a{
+	font-size: 25px;
+
+}
+.tinnhanh{
+	border-bottom: 1px solid red;
+	height: 200px;
+	
+}
+.noidung_2{
+	margin-top: 20px;
+	
+	display: flex;
+}
+.nd_1{
+	display: flex;
+	width: 420px;
+}
+.nd_1 div{
+	margin-left: 10px;
+}
+.tin_ngan{
+	margin-top: 20px;
+	display: flex;
+}
+.tin_ngan div{
+	margin-left: 15px;
+}
+.noidung_right{
+	background-color: ;
+	margin-left: 15px;
+}

@@ -1,0 +1,195 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+li{
+	list-style-type: none;
+}
+a:hover{
+	color: red;
+}
+#top{
+	width: 1170px;
+	margin: 0 auto;
+	height: 50px;
+	background-color: ;
+	display: flex;/* nằm ngang*/
+		
+}
+.img_home{
+	line-height: 70px;
+
+}
+.menu{
+	margin-left: 10px;
+	display: flex;
+}
+
+input{
+	width: 150px;
+	height: 28px;
+	border-radius: 3px;
+	border: solid 1px #01a050;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+
+.menu ul{
+	margin: 0;
+	padding: 0;
+}
+.menu ul li{
+	list-style-type: none;
+	background-color: ;
+	display: inline-table;
+	line-height: 50px;
+	
+
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 16px;
+}
+.menu ul li a:hover{
+	background:red;/*màu nền menu*/
+	color: #333;
+	color: white;
+}
+/**/
+.content{
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 20px;
+	display: flex;
+
+}
+.content_left{
+	width: 835px;
+	background-color: ;
+	display: flex;
+	
+}
+.content_left_1{
+	width: 500px;
+	margin-right: 10px;
+	
+}
+.content_left_2{
+	width: 330px;
+	background-color: ;
+
+}
+.tieudiem{
+	display: flex;
+	margin-bottom: 20px;
+}
+.td{
+	display: flex;
+}
+.tieudiem a{
+	margin-right: 10px;
+	color: black;
+}
+.tieudiem a:hover{
+	color: red;
+}
+.tt_sukien{
+	border-bottom: 1px solid #01a050;
+	margin-top: 20px;
+	
+}
+.event{
+	width: 85px;
+	padding: 15px;
+	background-color: #01a050;
+	text-align: center;
+}
+.event a{
+	color: white;
+}
+.event a:hover{
+	color: red; 
+}
+.sk1{
+	width: 500px;
+	display: flex;
+}
+.sk1 p{
+	margin-left: 15px;
+}
+.sk2{
+	width: 330px;
+	margin-left: 10px;
+	display: flex;
+	margin-top: 20px;
+}
+.sk2 p{
+	margin-left: 20px;
+}
+/**/
+.content_right{
+	background-color: ;
+	width: auto;
+	height: auto;
+	margin-left: 20px;
+
+
+}
+.docnhieu{
+	display: flex;
+	margin-top: 15px;
+}
+.docnhieu a img{
+	margin-right: 10px;
+}
+#footer{
+	background-color: #01a050;
+	color: #FFFFFF;
+	display: flex;
+	margin-top: 30px;
+	height: auto;
+}
+#footer a{
+	color: white;
+
+}
+
+.ft1{
+	width: 290px;
+	margin-left: 90px;
+}
+.ft2{
+	width: 200px;
+	margin-left: 30px;
+
+}
+.ft2 a{
+	font-size: 16px;
+	margin-top: 20px;
+
+}
+
+
+
+.ft3{
+	width: 300px;
+	margin-left: 30px;
+}
+.ft4{
+	width: 300px;
+	margin-left: 30px;
+}
+.footer-icon{
+	margin-top: 20px;
+}
+p{
+	text-align: justify;
+}

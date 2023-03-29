@@ -1,0 +1,17 @@
+.content-xh{
+	width: 1170px;
+	margin: 0 auto;
+	
+	display: flex;
+}
+.content-xh-left{
+	width: 840px;
+
+}
+.content-xh-left p{
+	width: 800px;
+	text-align: justify;
+}
+b{
+	margin-right: 0px;
+}
